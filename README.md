@@ -1,14 +1,14 @@
 # ECONOMIC-VARIABLE-CORRELATION-AND-PRODUCTIVITY-MODEL
 
 
-## INTRODUCTION
+### INTRODUCTION
 Understanding the intricate relationships between key economic variables is crucial for policymakers, investors, and economists. These variables often provide insights into the health and dynamics of an economy, enabling more informed decisions. In the context of Nigeria, a nation with a rapidly evolving economic landscape, analyzing the interactions between the money supply (M1), real exchange rate (black market), stock market performance, and inflation rate is particularly relevant.
 This report aims to delve into these relationships, providing a comprehensive analysis that spans several decades. By examining historical data from 1960 to 2024, we can identify trends, correlations, and potential causative factors influencing Nigeria's economic performance. The ultimate goal is to construct a productivity model that incorporates these variables, offering a theoretical and practical framework for understanding and predicting economic behavior.
 
-## OBJECTIVE:
+### OBJECTIVE:
 Perform a financial analysis to examine the correlations between key economic variables.
 
-## DATA COLLECTION
+### DATA COLLECTION
 For this analysis, we have collected data on key economic variables for Nigeria spanning from 1960 to 2024. The data includes:
 - M1 Money Supply
 - Real Exchange Rate (Black Market)
@@ -72,7 +72,7 @@ A coefficient near 0 suggests weak or no linear correlation.
 
 
 
-## THEORETICAL FRAMEWORK
+### THEORETICAL FRAMEWORK
 To build a theoretical framework around the idea that increased money supply leads to currency depreciation, stock market appreciation, and increased inflation, several economic principles and theories were considered. 
 
 
@@ -154,7 +154,7 @@ Money Supply vs. Exchange Rates: Demonstrate how increased money supply might le
 The theoretical framework suggests that an increase in money supply will lead to currency depreciation, stock market appreciation, and increased inflation, given a constant level of productivity. This framework aligns with several established economic theories and provides a foundation for analyzing how changes in money supply influence various economic variables.
 
 
-## PRODUCTIVITY MODEL
+### PRODUCTIVITY MODEL
 
 A potential productivity model looks like this:
 
@@ -308,11 +308,11 @@ Inflation Differential = 27.64% − 2% = 25.64%
 Real Currency Devaluation = Nominal Exchange Rate Change − Inflation Differential Real Currency Devaluation = 115.6% − 25.64% = 89.96%
 
 
-## INTERPRETATIONS
+### INTERPRETATIONS
 The real currency devaluation for the Nigerian Naira (NGN) from 2023 to 2024, after adjusting for the inflation differential with a reference currency assumed to have a flat M1 growth and stable productivity, is approximately 89.96%. This significant devaluation indicates a substantial loss in the purchasing power of the Naira relative to the reference currency (USD), after accounting for inflation.
 
 
-## IMPLICATIONS
+### IMPLICATIONS
 - Economic Impact: A high real devaluation can have several effects, including increased cost of imports, potential improvements in export competitiveness, and higher inflationary pressures domestically.
 - Policy Considerations: Policymakers might need to address the underlying causes of the devaluation, such as inflation, exchange rate policies, and economic stability measures to mitigate the adverse effects on the economy.
 - Investor Sentiment: Such a large devaluation could impact investor confidence, leading to capital flight or reduced foreign direct investment.
